@@ -1,0 +1,3325 @@
+        "AMMO": [
+
+         	  "AmmoBox_00buck_10rnd",
+
+         	  "AmmoBox_12gaRubberSlug_10Rnd",
+
+         	  "AmmoBox_12gaSlug_10Rnd",
+
+         	  "AmmoBox_22_50Rnd",
+
+         	  "AmmoBox_308WinTracer_20Rnd",
+
+         	  "AmmoBox_308Win_20Rnd",
+
+         	  "AmmoBox_357_20Rnd",
+
+         	  "AmmoBox_380_35rnd",
+
+         	  "AmmoBox_45ACP_25rnd",
+
+         	  "AmmoBox_545x39Tracer_20Rnd",
+
+         	  "AmmoBox_545x39_20Rnd",
+
+         	  "AmmoBox_556x45Tracer_20Rnd",
+
+         	  "AmmoBox_556x45_20Rnd",
+
+         	  "AmmoBox_762x39Tracer_20Rnd",
+
+         	  "AmmoBox_762x39_20Rnd",
+
+         	  "AmmoBox_762x54Tracer_20Rnd",
+
+         	  "AmmoBox_762x54_20Rnd",
+
+         	  "AmmoBox_9x19_25rnd",
+
+         	  "AmmoBox_9x39AP_20Rnd",
+
+         	  "AmmoBox_9x39_20Rnd",
+
+         	  "Ammo_12gaPellets",
+
+         	  "Ammo_12gaRubberSlug",
+
+         	  "Ammo_12gaSlug",
+
+         	  "Ammo_22",
+
+         	  "Ammo_308Win",
+
+         	  "Ammo_308WinTracer",
+
+         	  "Ammo_357",
+
+         	  "Ammo_380",
+
+         	  "Ammo_40mm_Explosive",
+
+         	  "Ammo_40mm_Smoke_Black",
+
+         	  "Ammo_40mm_Smoke_Green",
+
+         	  "Ammo_40mm_Smoke_Red",
+
+         	  "Ammo_40mm_Smoke_White",
+
+         	  "Ammo_45ACP",
+
+         	  "Ammo_545x39",
+
+         	  "Ammo_545x39Tracer",
+
+         	  "Ammo_556x45",
+
+         	  "Ammo_556x45Tracer",
+
+         	  "Ammo_762x39",
+
+         	  "Ammo_762x39Tracer",
+
+         	  "Ammo_762x54",
+
+         	  "Ammo_762x54Tracer",
+
+         	  "Ammo_9x19",
+
+         	  "Ammo_9x39",
+
+         	  "Ammo_9x39AP",
+
+         	  "Ammo_CupidsBolt",
+
+         	  "Ammo_Flare",
+
+         	  "Ammo_FlareBlue",
+
+         	  "Ammo_FlareGreen",
+
+         	  "Ammo_FlareRed",
+
+         	  "Ammo_HuntingBolt",
+
+         	  "Ammo_ImprovisedBolt_1",
+
+         	  "Ammo_ImprovisedBolt_2"
+
+         	],
+
+         	         	"ARMBANDS": [
+
+         	  "Armband_APA",
+
+         	  "Armband_Altis",
+
+         	  "Armband_BabyDeer",
+
+         	  "Armband_Bear",
+
+         	  "Armband_Black",
+
+         	  "Armband_Blue",
+
+         	  "Armband_Bohemia",
+
+         	  "Armband_BrainZ",
+
+         	  "Armband_CDF",
+
+         	  "Armband_CHEL",
+
+         	  "Armband_CMC",
+
+         	  "Armband_Cannibals",
+
+         	  "Armband_Chedaki",
+
+         	  "Armband_Chernarus",
+
+         	  "Armband_Crook",
+
+         	  "Armband_DayZ",
+
+         	  "Armband_Green",
+
+         	  "Armband_HunterZ",
+
+         	  "Armband_Livonia",
+
+         	  "Armband_LivoniaArmy",
+
+         	  "Armband_LivoniaPolice",
+
+         	  "Armband_NAPA",
+
+         	  "Armband_NSahrani",
+
+         	  "Armband_Orange",
+
+         	  "Armband_Pink",
+
+         	  "Armband_Pirates",
+
+         	  "Armband_RSTA",
+
+         	  "Armband_Red",
+
+         	  "Armband_Refuge",
+
+         	  "Armband_Rex",
+
+         	  "Armband_Rooster",
+
+         	  "Armband_SSahrani",
+
+         	  "Armband_Snake",
+
+         	  "Armband_TEC",
+
+         	  "Armband_UEC",
+
+         	  "Armband_White",
+
+         	  "Armband_Wolf",
+
+         	  "Armband_Yellow",
+
+         	  "Armband_Zagorky",
+
+         	  "Armband_Zenit"
+
+         	],
+
+         	"ATTACHMENTS": [
+
+         	  "SKS_Bayonet",
+
+         	  "M9A1_Bayonet",
+
+         	  "AK_Bayonet",
+
+         	  "AK74_Hndgrd",
+
+         	  "AK74_WoodBttstck",
+
+         	  "AKS74U_Bttstck",
+
+         	  "AK_FoldingBttstck",
+
+         	  "AK_FoldingBttstck_Black",
+
+         	  "AK_FoldingBttstck_Green",
+
+         	  "AK_PlasticBttstck",
+
+         	  "AK_PlasticBttstck_Black",
+
+         	  "AK_PlasticBttstck_Green",
+
+         	  "AK_PlasticHndgrd",
+
+         	  "AK_RailHndgrd",
+
+         	  "AK_RailHndgrd_Black",
+
+         	  "AK_RailHndgrd_Green",
+
+         	  "AK_WoodBttstck",
+
+         	  "AK_WoodBttstck_Black",
+
+         	  "AK_WoodBttstck_Camo",
+
+         	  "AK_WoodHndgrd",
+
+         	  "AK_WoodHndgrd_Black",
+
+         	  "AK_WoodHndgrd_Camo",
+
+         	  "Fal_FoldingBttstck",
+
+         	  "Fal_OeBttstck",
+
+         	  "M4_CQBBttstck",
+
+         	  "M4_MPBttstck",
+
+         	  "M4_MPHndgrd",
+
+         	  "M4_OEBttstck",
+
+         	  "M4_PlasticHndgrd",
+
+         	  "M4_RISHndgrd",
+
+         	  "M4_RISHndgrd_Black",
+
+         	  "M4_RISHndgrd_Green",
+
+         	  "MP5_Compensator",
+
+         	  "MP5_PlasticHndgrd",
+
+         	  "MP5_RailHndgrd",
+
+         	  "MP5k_StockBttstck",
+
+         	  "Mosin_Bayonet",
+
+         	  "Mosin_Compensator",
+
+         	  "PP19_Bttstck",
+
+         	  "Saiga_Bttstck"
+
+         	],
+
+         	"BAGS": [
+
+         	  "AssaultBag_Winter",
+
+         	  "CoyoteBag_Winter",
+
+         	  "TortillaBag_Winter",
+
+         	  "AliceBag_Black",
+
+         	  "AliceBag_Camo",
+
+         	  "AliceBag_Green",
+
+         	  "ArmyPouch_Beige",
+
+         	  "ArmyPouch_Black",
+
+         	  "ArmyPouch_Camo",
+
+         	  "ArmyPouch_Green",
+
+         	  "AssaultBag_Black",
+
+         	  "AssaultBag_Green",
+
+         	  "AssaultBag_Ttsko",
+
+         	  "CanvasBag_Medical",
+
+         	  "CanvasBag_Olive",
+
+         	  "ChildBag_Blue",
+
+         	  "ChildBag_Green",
+
+         	  "ChildBag_Red",
+
+         	  "CourierBag",
+
+         	  "CoyoteBag_Brown",
+
+         	  "CoyoteBag_Green",
+
+         	  "DryBag_Black",
+
+         	  "DryBag_Blue",
+
+         	  "DryBag_Green",
+
+         	  "DryBag_Orange",
+
+         	  "DryBag_Red",
+
+         	  "DryBag_Yellow",
+
+         	  "DrysackBag_Green",
+
+         	  "DrysackBag_Orange",
+
+         	  "DrysackBag_Yellow",
+
+         	  "DuffelBagSmall_Camo",
+
+         	  "DuffelBagSmall_Green",
+
+         	  "DuffelBagSmall_Medical",
+
+         	  "FurCourierBag",
+
+         	  "FurImprovisedBag",
+
+         	  "HipPack_Black",
+
+         	  "HipPack_Green",
+
+         	  "HipPack_Medical",
+
+         	  "HipPack_Party",
+
+         	  "HuntingBag",
+
+         	  "HuntingBag_Hannah",
+
+         	  "ImprovisedBag",
+
+         	  "LeatherSack_Beige",
+
+         	  "LeatherSack_Black",
+
+         	  "LeatherSack_Brown",
+
+         	  "LeatherSack_Natural",
+
+         	  "MountainBag_Blue",
+
+         	  "MountainBag_Green",
+
+         	  "MountainBag_Orange",
+
+         	  "MountainBag_Red",
+
+         	  "Slingbag_Black",
+
+         	  "Slingbag_Brown",
+
+         	  "Slingbag_Gray",
+
+         	  "SmershBag",
+
+         	  "TaloonBag_Blue",
+
+         	  "TaloonBag_Green",
+
+         	  "TaloonBag_Orange",
+
+         	  "TaloonBag_Violet",
+
+         	  "TortillaBag",
+
+         	  "WaterproofBag_Green",
+
+         	  "WaterproofBag_Orange",
+
+         	  "WaterproofBag_Yellow"
+
+         	],
+
+         	"BELTS": [
+
+         	  "CivilianBelt",
+
+         	  "LeatherBelt_Beige",
+
+         	  "LeatherBelt_Black",
+
+         	  "LeatherBelt_Brown",
+
+         	  "LeatherBelt_Natural",
+
+         	  "MilitaryBelt",
+
+         	  "RopeBelt"
+
+         	],
+
+         	"GASGEAR": [
+
+         	  "NBCBootsWhite",
+
+         	  "NBCHoodWhite",
+
+         	  "NBCJacketWhite",
+
+         	  "NBCPantsWhite",
+
+         	  "NBCBootsGray",
+
+         	  "NBCBootsYellow",
+
+         	  "NBCGlovesGray",
+
+         	  "NBCGlovesYellow",
+
+         	  "NBCHoodGray",
+
+         	  "NBCHoodYellow",
+
+         	  "NBCJacketGray",
+
+         	  "NBCJacketYellow",
+
+         	  "NBCPantsGray",
+
+         	  "NBCPantsYellow"
+
+         	],
+
+         	"GASMASKS": [
+
+         	  "AirborneMask",
+
+         	  "GP5GasMask",
+
+         	  "GasMask",
+
+         	  "GasMask_Filter",
+
+         	  "GasMask_Filter_Improvised"
+
+         	],
+
+         	"GHILLIES": [
+
+         	  "GhillieBushrag_Winter",
+
+         	  "GhillieHood_Winter",
+
+         	  "GhillieSuit_Winter",
+
+         	  "GhillieTop_Winter",
+
+         	  "GhillieAtt_Winter",
+
+         	  "GhillieAtt_Mossy",
+
+         	  "GhillieAtt_Tan",
+
+         	  "GhillieAtt_Woodland",
+
+         	  "GhillieBushrag_Mossy",
+
+         	  "GhillieBushrag_Tan",
+
+         	  "GhillieBushrag_Woodland",
+
+         	  "GhillieHood_Mossy",
+
+         	  "GhillieHood_Tan",
+
+         	  "GhillieHood_Woodland",
+
+         	  "GhillieSuit_Mossy",
+
+         	  "GhillieSuit_Tan",
+
+         	  "GhillieSuit_Woodland",
+
+         	  "GhillieTop_Mossy",
+
+         	  "GhillieTop_Tan",
+
+         	  "GhillieTop_Woodland"
+
+         	],
+
+         	"GLOVES": [
+
+         	  "SkiGloves_90s",
+
+         	  "SkiGloves_Blue",
+
+         	  "SkiGloves_Red",
+
+         	  "LeatherGloves_Beige",
+
+         	  "LeatherGloves_Black",
+
+         	  "LeatherGloves_Brown",
+
+         	  "LeatherGloves_Natural",
+
+         	  "OMNOGloves_Brown",
+
+         	  "OMNOGloves_Gray",
+
+         	  "PaddedGloves_Beige",
+
+         	  "PaddedGloves_Brown",
+
+         	  "PaddedGloves_Threat",
+
+         	  "SurgicalGloves_Blue",
+
+         	  "SurgicalGloves_Green",
+
+         	  "SurgicalGloves_LightBlue",
+
+         	  "SurgicalGloves_White",
+
+         	  "TacticalGloves_Beige",
+
+         	  "TacticalGloves_Black",
+
+         	  "TacticalGloves_Green",
+
+         	  "WoolGlovesFingerless_Black",
+
+         	"WoolGlovesFingerless_ChristmasBlue",
+
+         	"WoolGlovesFingerless_ChristmasRed",
+
+         	  "WoolGlovesFingerless_Green",
+
+         	  "WoolGlovesFingerless_Tan",
+
+         	  "WoolGlovesFingerless_White",
+
+         	  "WoolGloves_Black",
+
+         	  "WoolGloves_ChristmasBlue",
+
+         	  "WoolGloves_ChristmasRed",
+
+         	  "WoolGloves_Green",
+
+         	  "WoolGloves_Tan",
+
+         	  "WoolGloves_White",
+
+         	  "WorkingGloves_Beige",
+
+         	  "WorkingGloves_Black",
+
+         	  "WorkingGloves_Brown",
+
+         	  "WorkingGloves_Yellow"
+
+         	],
+
+         	"HATS": [
+
+         	  "BoonieHat_Winter",
+
+         	  "BudenovkaHat_Gray",
+
+         	  "Headdress_Wolf",
+
+         	  "SherpaHat_Black",
+
+         	  "SherpaHat_Blue",
+
+         	  "SherpaHat_Red",
+
+         	  "BaseballCap_Beige",
+
+         	  "BaseballCap_Black",
+
+         	  "BaseballCap_Blue",
+
+         	  "BaseballCap_CMMG_Black",
+
+         	  "BaseballCap_CMMG_Pink",
+
+         	  "BaseballCap_Camo",
+
+         	  "BaseballCap_Olive",
+
+         	  "BaseballCap_Pink",
+
+         	  "BaseballCap_Red",
+
+         	  "BeanieHat_Beige",
+
+         	  "BeanieHat_Black",
+
+         	  "BeanieHat_Blue",
+
+         	  "BeanieHat_Brown",
+
+         	  "BeanieHat_Green",
+
+         	  "BeanieHat_Grey",
+
+         	  "BeanieHat_Pink",
+
+         	  "BeanieHat_Red",
+
+         	  "BoonieHat_Black",
+
+         	  "BoonieHat_Blue",
+
+         	  "BoonieHat_DPM",
+
+         	  "BoonieHat_Dubok",
+
+         	  "BoonieHat_Flecktran",
+
+         	  "BoonieHat_NavyBlue",
+
+         	  "BoonieHat_Olive",
+
+         	  "BoonieHat_Orange",
+
+         	  "BoonieHat_Red",
+
+         	  "BoonieHat_Tan",
+
+         	  "CowboyHat_Brown",
+
+         	  "CowboyHat_black",
+
+         	  "CowboyHat_darkBrown",
+
+         	  "CowboyHat_green",
+
+         	  "FlatCap_Black",
+
+         	  "FlatCap_BlackCheck",
+
+         	  "FlatCap_Blue",
+
+         	  "FlatCap_Brown",
+
+         	  "FlatCap_BrownCheck",
+
+         	  "FlatCap_Grey",
+
+         	  "FlatCap_GreyCheck",
+
+         	  "FlatCap_Red",
+
+         	  "LeatherHat_Beige",
+
+         	  "LeatherHat_Black",
+
+         	  "LeatherHat_Brown",
+
+         	  "LeatherHat_Natural",
+
+         	  "MedicalScrubsHat_Blue",
+
+         	  "MedicalScrubsHat_Green",
+
+         	  "MedicalScrubsHat_White",
+
+         	  "MilitaryBeret_CDF",
+
+         	  "MilitaryBeret_ChDKZ",
+
+         	  "MilitaryBeret_NZ",
+
+         	  "MilitaryBeret_Red",
+
+         	  "MilitaryBeret_UN",
+
+         	  "MorozkoHat",
+
+         	  "OKZKCap_Beige",
+
+         	  "OKZKCap_Green",
+
+         	  "OfficerHat",
+
+         	  "PetushokHat_Black",
+
+         	  "PetushokHat_Green",
+
+         	  "PetushokHat_Yellow",
+
+         	  "PilotkaCap",
+
+         	  "PoliceCap",
+
+         	  "PrisonerCap",
+
+         	  "RadarCap_Black",
+
+         	  "RadarCap_Blue",
+
+         	  "RadarCap_Brown",
+
+         	  "RadarCap_Green",
+
+         	  "RadarCap_Red",
+
+         	  "SantasHat",
+
+         	  "WitchHat",
+
+         	  "WitchHood_Black",
+
+         	  "WitchHood_Brown",
+
+         	  "WitchHoodCoif_Black",
+
+         	  "WitchHoodCoif_Brown",
+
+         	  "WitchHoodCoif_Red",
+
+         	  "WitchHood_Red",
+
+         	  "ZmijovkaCap_Black",
+
+         	  "ZmijovkaCap_Blue",
+
+         	  "ZmijovkaCap_Brown",
+
+         	  "ZmijovkaCap_Green",
+
+         	  "ZmijovkaCap_Red",
+
+         	  "Ushanka_Black",
+
+         	  "Ushanka_Blue",
+
+         	  "Ushanka_Green",
+
+         	  "WinterCoif_Black",
+
+         	  "WinterCoif_Blue",
+
+         	  "WinterCoif_Green",
+
+         	  "WinterCoif_Skull",
+
+			  "LeafCrown_Autumn",
+
+			  "LeafCrown_Spring",
+
+			  "LeafCrown_Summer",
+
+			  "LeafCrown_Winter",
+
+         	  "SnowstormUshanka_Brown",
+
+         	  "SnowstormUshanka_Navy",
+
+         	  "SnowstormUshanka_Olive",
+
+         	  "SnowstormUshanka_White"
+
+         	],
+
+         	"HELMETS": [
+
+         	  "NorseHelmet",
+
+         	  "BallisticHelmet_Navy",
+
+         	  "BallisticHelmet_Winter",
+
+         	  "BallisticHelmet_BDU",
+
+         	  "BallisticHelmet_Black",
+
+         	  "BallisticHelmet_Desert",
+
+         	  "BallisticHelmet_Green",
+
+         	  "BallisticHelmet_UN",
+
+         	  "BallisticHelmet_Woodland",
+
+         	  "ConstructionHelmet_Blue",
+
+         	  "ConstructionHelmet_Lime",
+
+         	  "ConstructionHelmet_Orange",
+
+         	  "ConstructionHelmet_Red",
+
+         	  "ConstructionHelmet_White",
+
+         	  "ConstructionHelmet_Yellow",
+
+         	  "DarkMotoHelmet_Black",
+
+         	  "DarkMotoHelmet_Blue",
+
+         	  "DarkMotoHelmet_Green",
+
+         	  "DarkMotoHelmet_Grey",
+
+         	  "DarkMotoHelmet_Lime",
+
+         	  "DarkMotoHelmet_Red",
+
+         	  "DarkMotoHelmet_White",
+
+         	  "DarkMotoHelmet_Yellow",
+
+         	  "DarkMotoHelmet_YellowScarred",
+
+         	  "DirtBikeHelmet_Black",
+
+         	  "DirtBikeHelmet_Blue",
+
+         	  "DirtBikeHelmet_Chernarus",
+
+         	  "DirtBikeHelmet_Green",
+
+         	  "DirtBikeHelmet_Khaki",
+
+         	  "DirtBikeHelmet_Mouthguard",
+
+         	  "DirtBikeHelmet_Police",
+
+         	  "DirtBikeHelmet_Red",
+
+         	  "DirtBikeHelmet_Visor",
+
+         	  "FirefightersHelmet_Red",
+
+         	  "FirefightersHelmet_White",
+
+         	  "FirefightersHelmet_Yellow",
+
+         	  "GorkaHelmet",
+
+         	  "GorkaHelmet_Black",
+
+         	  "GorkaHelmetVisor",
+
+         	  "HockeyHelmet_Black",
+
+         	  "HockeyHelmet_Blue",
+
+         	  "HockeyHelmet_Red",
+
+         	  "HockeyHelmet_White",
+
+         	  "Mich2001Helmet",
+
+         	  "MotoHelmet_Black",
+
+         	  "MotoHelmet_Blue",
+
+         	  "MotoHelmet_Green",
+
+         	  "MotoHelmet_Grey",
+
+         	  "MotoHelmet_Lime",
+
+         	  "MotoHelmet_Red",
+
+         	  "MotoHelmet_White",
+
+         	  "MotoHelmet_Yellow",
+
+         	  "NorseHelm",
+
+         	  "PumpkinHelmet",
+
+         	  "SkateHelmet_Black",
+
+         	  "SkateHelmet_Blue",
+
+         	  "SkateHelmet_Gray",
+
+         	  "SkateHelmet_Green",
+
+         	  "SkateHelmet_Red",
+
+         	  "Ssh68Helmet",
+
+         	  "TankerHelmet",
+
+         	  "ZSh3PilotHelmet"
+
+         	],
+
+         	"CLOTHING": [
+
+         	  "OMKJacket_Navy",
+
+         	  "OMKPants_Navy",
+
+         	  "Sweater_ChristmasBlue",
+
+         	  "Sweater_ChristmasGreen",
+
+         	  "Sweater_ChristmasRed",
+
+         	  "BushlatPoliceJacket_Blue",
+
+         	  "DownJacket_Blue",
+
+         	  "DownJacket_Green",
+
+         	  "DownJacket_Orange",
+
+         	  "DownJacket_Red",
+
+         	  "NavyUniformJacket",
+
+         	  "NavyUniformPants",
+
+         	  "BDUJacket",
+
+         	  "BDUPants",
+
+         	  "Blouse_Blue",
+
+         	  "Blouse_Green",
+
+         	  "Blouse_Violet",
+
+         	  "Blouse_White",
+
+         	  "BomberJacket_Black",
+
+         	  "BomberJacket_Blue",
+
+         	  "BomberJacket_Brown",
+
+         	  "BomberJacket_Grey",
+
+         	  "BomberJacket_Maroon",
+
+         	  "BomberJacket_Olive",
+
+         	  "BomberJacket_SkyBlue",
+
+         	  "Breeches_Beetcheck",
+
+         	  "Breeches_Beige",
+
+         	  "Breeches_Black",
+
+         	  "Breeches_Blackcheck",
+
+         	  "Breeches_Blue",
+
+         	  "Breeches_Browncheck",
+
+         	  "Breeches_Green",
+
+         	  "Breeches_Pink",
+
+         	  "Breeches_Red",
+
+         	  "Breeches_White",
+
+         	  "CanvasPantsMidi_Beige",
+
+         	  "CanvasPantsMidi_Blue",
+
+         	  "CanvasPantsMidi_Grey",
+
+         	  "CanvasPantsMidi_Red",
+
+         	  "CanvasPantsMidi_Violet",
+
+         	  "CanvasPants_Beige",
+
+         	  "CanvasPants_Blue",
+
+         	  "CanvasPants_Grey",
+
+         	  "CanvasPants_Red",
+
+         	  "CanvasPants_Violet",
+
+         	  "CargoPants_Beige",
+
+         	  "CargoPants_Black",
+
+         	  "CargoPants_Blue",
+
+         	  "CargoPants_Green",
+
+         	  "CargoPants_Grey",
+
+         	  "Chainmail",
+
+         	  "Chainmail_Coif",
+
+         	  "Chainmail_Leggings",
+
+         	  "ChernarusSportShirt",
+
+         	  "ChristmasHeadband_Antlers",
+
+         	  "ChristmasHeadband_Gingerbread",
+
+         	  "ChristmasHeadband_Trees",
+
+         	  "DenimJacket",
+
+         	  "FirefighterJacket_Beige",
+
+         	  "FirefighterJacket_Black",
+
+         	  "FirefightersPants_Beige",
+
+         	  "FirefightersPants_Black",
+
+         	  "GorkaEJacket_Winter",
+
+         	  "GorkaPants_Winter",
+
+         	  "GorkaEJacket_Autumn",
+
+         	  "GorkaEJacket_Flat",
+
+         	  "GorkaEJacket_PautRev",
+
+         	  "GorkaEJacket_Summer",
+
+         	  "GorkaPants_Autumn",
+
+         	  "GorkaPants_Flat",
+
+         	  "GorkaPants_PautRev",
+
+         	  "GorkaPants_Summer",
+
+         	  "GreatHelm",
+
+         	  "HikingJacket_Black",
+
+         	  "HikingJacket_Blue",
+
+         	  "HikingJacket_Green",
+
+         	  "HikingJacket_Red",
+
+         	  "Hoodie_Black",
+
+         	  "Hoodie_Blue",
+
+         	  "Hoodie_Brown",
+
+         	  "Hoodie_Green",
+
+         	  "Hoodie_Grey",
+
+         	  "Hoodie_Red",
+
+         	  "HunterPants_Autumn",
+
+         	  "HunterPants_Brown",
+
+         	  "HunterPants_Spring",
+
+         	  "HunterPants_Summer",
+
+         	  "HunterPants_Winter",
+
+         	  "HuntingJacket_Autumn",
+
+         	  "HuntingJacket_Brown",
+
+         	  "HuntingJacket_Spring",
+
+         	  "HuntingJacket_Summer",
+
+         	  "HuntingJacket_Winter",
+
+         	  "Jeans_Black",
+
+         	  "Jeans_Blue",
+
+         	  "Jeans_BlueDark",
+
+         	  "Jeans_Brown",
+
+         	  "Jeans_Green",
+
+         	  "Jeans_Grey",
+
+         	  "JumpsuitJacket_Blue",
+
+         	  "JumpsuitJacket_Gray",
+
+         	  "JumpsuitJacket_Green",
+
+         	  "JumpsuitJacket_Red",
+
+         	  "JumpsuitPants_Blue",
+
+         	  "JumpsuitPants_Green",
+
+         	  "JumpsuitPants_Grey",
+
+         	  "JumpsuitPants_Red",
+
+         	  "LabCoat",
+
+         	  "LeatherJacket_Beige",
+
+         	  "LeatherJacket_Black",
+
+         	  "LeatherJacket_Brown",
+
+         	  "LeatherJacket_Natural",
+
+         	  "LeatherKnifeSheath",
+
+         	  "LeatherPants_Beige",
+
+         	  "LeatherPants_Black",
+
+         	  "LeatherPants_Brown",
+
+         	  "LeatherPants_Natural",
+
+         	  "LeatherShirt_Natural",
+
+         	  "M65Jacket_Black",
+
+         	  "M65Jacket_Khaki",
+
+         	  "M65Jacket_Olive",
+
+         	  "M65Jacket_Tan",
+
+         	  "ManSuit_Beige",
+
+         	  "ManSuit_Black",
+
+         	  "ManSuit_Blue",
+
+         	  "ManSuit_Brown",
+
+         	  "ManSuit_DarkGrey",
+
+         	  "ManSuit_Khaki",
+
+         	  "ManSuit_LightGrey",
+
+         	  "ManSuit_White",
+
+         	  "MedicalScrubsPants_Blue",
+
+         	  "MedicalScrubsPants_Green",
+
+         	  "MedicalScrubsPants_White",
+
+         	  "MedicalScrubsShirt_Blue",
+
+         	  "MedicalScrubsShirt_Green",
+
+         	  "MedicalScrubsShirt_White",
+
+         	  "MiniDress_BlueChecker",
+
+         	  "MiniDress_BlueWithDots",
+
+         	  "MiniDress_BrownChecker",
+
+         	  "MiniDress_GreenChecker",
+
+         	  "MiniDress_Pink",
+
+         	  "MiniDress_PinkChecker",
+
+         	  "MiniDress_RedChecker",
+
+         	  "MiniDress_WhiteChecker",
+
+         	  "NurseDress_Blue",
+
+         	  "NurseDress_White",
+
+         	  "ParamedicJacket_Blue",
+
+         	  "ParamedicJacket_Crimson",
+
+         	  "ParamedicJacket_Green",
+
+         	  "ParamedicPants_Blue",
+
+         	  "ParamedicPants_Crimson",
+
+         	  "ParamedicPants_Green",
+
+         	  "PoliceJacket",
+
+         	  "PoliceJacketOrel",
+
+         	  "PolicePants",
+
+         	  "PolicePantsOrel",
+
+         	  "PrisonUniformJacket",
+
+         	  "PrisonUniformPants",
+
+         	  "QuiltedJacket_Black",
+
+         	  "QuiltedJacket_Blue",
+
+         	  "QuiltedJacket_Green",
+
+         	  "QuiltedJacket_Grey",
+
+         	  "QuiltedJacket_Orange",
+
+         	  "QuiltedJacket_Red",
+
+         	  "QuiltedJacket_Violet",
+
+         	  "QuiltedJacket_Yellow",
+
+         	  "Raincoat_Black",
+
+         	  "Raincoat_Blue",
+
+         	  "Raincoat_Green",
+
+         	  "Raincoat_Orange",
+
+         	  "Raincoat_Pink",
+
+         	  "Raincoat_Red",
+
+         	  "Raincoat_Yellow",
+
+         	  "RidersJacket_Black",
+
+         	  "SantasBeard",
+
+         	  "Shirt_BlueCheck",
+
+         	  "Shirt_BlueCheckBright",
+
+         	  "Shirt_GreenCheck",
+
+         	  "Shirt_PlaneBlack",
+
+         	  "Shirt_RedCheck",
+
+         	  "Shirt_WhiteCheck",
+
+         	  "ShortJeans_Black",
+
+         	  "ShortJeans_Blue",
+
+         	  "ShortJeans_Brown",
+
+         	  "ShortJeans_Darkblue",
+
+         	  "ShortJeans_Green",
+
+         	  "ShortJeans_Red",
+
+         	  "Skirt_Blue",
+
+         	  "Skirt_Red",
+
+         	  "Skirt_White",
+
+         	  "Skirt_Yellow",
+
+         	  "SlacksPants_Beige",
+
+         	  "SlacksPants_Black",
+
+         	  "SlacksPants_Blue",
+
+         	  "SlacksPants_Brown",
+
+         	  "SlacksPants_DarkGrey",
+
+         	  "SlacksPants_Khaki",
+
+         	  "SlacksPants_LightGrey",
+
+         	  "SlacksPants_White",
+
+         	  "Sweater_Blue",
+
+         	  "Sweater_Gray",
+
+         	  "Sweater_Green",
+
+         	  "Sweater_Red",
+
+         	  "TShirt_Beige",
+
+         	  "TShirt_Black",
+
+         	  "TShirt_Blue",
+
+         	  "TShirt_Green",
+
+         	  "TShirt_Grey",
+
+         	  "TShirt_OrangeWhiteStripes",
+
+         	  "TShirt_Red",
+
+         	  "TShirt_RedBlackStripes",
+
+         	  "TShirt_White",
+
+         	  "TTSKOPants",
+
+         	  "TTsKOJacket_Camo",
+
+         	  "TacticalShirt_Black",
+
+         	  "TacticalShirt_Grey",
+
+         	  "TacticalShirt_Olive",
+
+         	  "TacticalShirt_Tan",
+
+         	  "TelnyashkaShirt",
+
+         	  "TrackSuitJacket_Black",
+
+         	  "TrackSuitJacket_Blue",
+
+         	  "TrackSuitJacket_Green",
+
+         	  "TrackSuitJacket_LightBlue",
+
+         	  "TrackSuitJacket_Red",
+
+         	  "TrackSuitPants_Black",
+
+         	  "TrackSuitPants_Blue",
+
+         	  "TrackSuitPants_Green",
+
+         	  "TrackSuitPants_LightBlue",
+
+         	  "TrackSuitPants_Red",
+
+         	  "Tshirt_10thAnniversary",
+
+         	  "USMCJacket_Desert",
+
+         	  "USMCJacket_Woodland",
+
+         	  "USMCPants_Desert",
+
+         	  "USMCPants_Woodland",
+
+         	  "WomanSuit_Beige",
+
+         	  "WomanSuit_Black",
+
+         	  "WomanSuit_Blue",
+
+         	  "WomanSuit_Brown",
+
+         	  "WomanSuit_DarkGrey",
+
+         	  "WomanSuit_Khaki",
+
+         	  "WomanSuit_LightGrey",
+
+         	  "WomanSuit_White",
+
+         	  "WoolCoat_Beige",
+
+         	  "WoolCoat_Black",
+
+         	  "WoolCoat_BlackCheck",
+
+         	  "WoolCoat_Blue",
+
+         	  "WoolCoat_BlueCheck",
+
+         	  "WoolCoat_BrownCheck",
+
+         	  "WoolCoat_Green",
+
+         	  "WoolCoat_GreyCheck",
+
+         	  "WoolCoat_Red",
+
+         	  "WoolCoat_RedCheck"
+
+         	],
+
+         	"CLOTHINGIMPROVISED": [
+
+         	  "EyePatch_Improvised",
+
+         	  "FaceCover_Improvised",
+
+         	  "FeetCover_Improvised",
+
+         	  "HandsCover_Improvised",
+
+         	  "HeadCover_Improvised",
+
+         	  "LegsCover_Improvised",
+
+         	  "TorsoCover_Improvised"
+
+         	],
+
+         	"FEET": [
+
+         	  "AthleticShoes_Black",
+
+         	  "AthleticShoes_Blue",
+
+         	  "AthleticShoes_Brown",
+
+         	  "AthleticShoes_Green",
+
+         	  "AthleticShoes_Grey",
+
+         	  "Ballerinas_White",
+
+         	  "CombatBoots_Beige",
+
+         	  "CombatBoots_Black",
+
+         	  "CombatBoots_Brown",
+
+         	  "CombatBoots_Green",
+
+         	  "CombatBoots_Grey",
+
+         	  "DressShoes_Beige",
+
+         	  "DressShoes_Black",
+
+         	  "DressShoes_Brown",
+
+         	  "DressShoes_Sunburst",
+
+         	  "DressShoes_White",
+
+         	  "HikingBootsLow_Beige",
+
+         	  "HikingBootsLow_Black",
+
+         	  "HikingBootsLow_Blue",
+
+         	  "HikingBootsLow_Grey",
+
+         	  "HikingBoots_Black",
+
+         	  "HikingBoots_Brown",
+
+         	  "JoggingShoes_Black",
+
+         	  "JoggingShoes_Blue",
+
+         	  "JoggingShoes_Red",
+
+         	  "JoggingShoes_Violet",
+
+         	  "JoggingShoes_White",
+
+         	  "JungleBoots_Beige",
+
+         	  "JungleBoots_Black",
+
+         	  "JungleBoots_Brown",
+
+         	  "JungleBoots_Green",
+
+         	  "JungleBoots_Olive",
+
+         	  "LeatherShoes_Beige",
+
+         	  "LeatherShoes_Black",
+
+         	  "LeatherShoes_Brown",
+
+         	  "LeatherShoes_Natural",
+
+         	  "MedievalBoots",
+
+         	  "MilitaryBoots_Beige",
+
+         	  "MilitaryBoots_Black",
+
+         	  "MilitaryBoots_Bluerock",
+
+         	  "MilitaryBoots_Brown",
+
+         	  "MilitaryBoots_Redpunk",
+
+         	  "Sneakers_Black",
+
+         	  "Sneakers_Gray",
+
+         	  "Sneakers_Green",
+
+         	  "Sneakers_Red",
+
+         	  "Sneakers_White",
+
+         	  "TTSKOBoots",
+
+         	  "Wellies_Black",
+
+         	  "Wellies_Brown",
+
+         	  "Wellies_Green",
+
+         	  "Wellies_Grey",
+
+         	  "WorkingBoots_Beige",
+
+         	  "WorkingBoots_Brown",
+
+         	  "WorkingBoots_Green",
+
+         	  "WorkingBoots_Grey",
+
+         	  "WorkingBoots_Yellow"
+
+         	],
+
+         	"FIREARMS": [
+
+         	  "AK101",
+
+         	  "AK101_Black",
+
+         	  "AK101_Green",
+
+         	  "AK74",
+
+			  "PM73Rak",
+
+			  "R12",
+
+         	  "AK74_Black",
+
+         	  "AK74_Green",
+
+         	  "AKM",
+
+         	  "AKS74U",
+
+         	  "AKS74U_Black",
+
+         	  "AKS74U_Green",
+
+         	  "ASVAL",
+
+         	  "Aug",
+
+         	  "AugShort",
+
+         	  "B95",
+
+         	  "CZ527",
+
+         	  "CZ527_Black",
+
+         	  "CZ527_Green",
+
+         	  "CZ527_Camo",
+
+         	  "CZ550",
+
+         	  "CZ61",
+
+         	  "CZ75",
+
+         	  "Colt1911",
+
+         	  "Crossbow_Autumn",
+
+         	  "Crossbow_Black",
+
+         	  "Crossbow_Summer",
+
+         	  "Crossbow_Wood",
+
+         	  "Deagle",
+
+         	  "Deagle_Gold",
+
+         	  "Derringer_Black",
+
+         	  "Derringer_Grey",
+
+         	  "Derringer_Pink",
+
+         	  "Engraved1911",
+
+         	  "FAL",
+
+         	  "FAMAS",
+
+         	  "FNX45",
+
+         	  "Flaregun",
+
+         	  "Glock19",
+
+         	  "Izh18",
+
+         	  "Izh18Shotgun",
+
+         	  "Izh43Shotgun",
+
+         	  "Longhorn",
+
+         	  "M14",
+
+         	  "M16A2",
+
+         	  "M4A1",
+
+         	  "M4A1_Black",
+
+         	  "M4A1_Green",
+
+         	  "M79",
+
+         	  "MKII",
+
+         	  "MP5K",
+
+         	  "Magnum",
+
+         	  "MakarovIJ70",
+
+         	  "Mosin9130",
+
+         	  "Mosin9130_Black",
+
+         	  "Mosin9130_Camo",
+
+         	  "Mosin9130_Green",
+
+         	  "Mp133Shotgun",
+
+         	  "P1",
+
+         	  "PP19",
+
+         	  "Repeater",
+
+         	  "Ruger1022",
+
+         	  "SKS",
+
+         	  "SSG82",
+
+         	  "SV98",
+
+         	  "SVD",
+
+         	  "SVD_Wooden",
+
+         	  "Saiga",
+
+         	  "SawedoffB95",
+
+         	  "SawedoffFAMAS",
+
+         	  "SawedoffIzh18",
+
+         	  "SawedoffIzh18Shotgun",
+
+         	  "SawedoffIzh43Shotgun",
+
+         	  "SawedoffMagnum",
+
+         	  "SawedoffMosin9130",
+
+         	  "SawedoffMosin9130_Black",
+
+         	  "SawedoffMosin9130_Camo",
+
+         	  "SawedoffMosin9130_Green",
+
+         	  "Scout",
+
+         	  "Scout_Chernarus",
+
+         	  "Scout_Livonia",
+
+         	  "UMP45",
+
+         	  "VSS",
+
+         	  "Vikhr",
+
+         	  "Winchester70",
+
+         	  "Winchester70_Green",
+
+         	  "Winchester70_Black"
+
+         	],
+
+         	"FLAGS": [
+
+         	  "Flag_APA",
+
+         	  "Flag_Altis",
+
+         	  "Flag_BabyDeer",
+
+         	  "Flag_Bear",
+
+         	  "Flag_Bohemia",
+
+         	  "Flag_BrainZ",
+
+         	  "Flag_CDF",
+
+         	  "Flag_CHEL",
+
+         	  "Flag_CMC",
+
+         	  "Flag_Cannibals",
+
+         	  "Flag_Chedaki",
+
+         	  "Flag_Chernarus",
+
+         	  "Flag_Crook",
+
+         	  "Flag_DayZ",
+
+         	  "Flag_HunterZ",
+
+         	  "Flag_Livonia",
+
+         	  "Flag_LivoniaArmy",
+
+         	  "Flag_LivoniaPolice",
+
+         	  "Flag_NAPA",
+
+         	  "Flag_NSahrani",
+
+         	  "Flag_Pirates",
+
+         	  "Flag_RSTA",
+
+         	  "Flag_Refuge",
+
+         	  "Flag_Rex",
+
+         	  "Flag_Rooster",
+
+         	  "Flag_SSahrani",
+
+         	  "Flag_Snake",
+
+         	  "Flag_TEC",
+
+         	  "Flag_UEC",
+
+         	  "Flag_White",
+
+         	  "Flag_Wolf",
+
+         	  "Flag_Zagorky",
+
+         	  "Flag_Zenit"
+
+         	],
+
+         	"FOOD": [
+
+         	  "FoxSteakMeat",
+
+         	  "CrabCan",
+
+         	  "CrabCan_Opened",
+
+         	  "AmanitaMushroom",
+
+         	  "CraterellusMushroom",
+
+         	  "DeadFox",
+
+         	  "GlassBottle",
+
+         	  "RedCaviar",
+
+         	  "ReindeerSteakMeat",
+
+         	  "SteelheadTrout",
+
+         	  "SteelheadTroutFilletMeat",
+
+         	  "WalleyePollock",
+
+         	  "WalleyePollockFilletMeat",
+
+         	  "FilteringBottle",
+
+         	  "AgaricusMushroom",
+
+         	  "Kiwi",
+
+         	  "Orange",
+
+         	  "Banana",
+
+         	  "Apple",
+
+         	  "AuriculariaMushroom",
+
+         	  "BakedBeansCan",
+
+         	  "BakedBeansCan_Opened",
+
+         	  "BearSteakMeat",
+
+         	  "Bitterlings",
+
+         	  "BoarSteakMeat",
+
+         	  "BoletusMushroom",
+
+         	  "BoxCerealCrunchin",
+
+         	  "BrisketSpread",
+
+         	  "BrisketSpread_Opened",
+
+         	  "Candycane_Green",
+
+         	  "Candycane_Red",
+
+         	  "Candycane_RedGreen",
+
+         	  "Candycane_Yellow",
+
+         	  "CaninaBerry",
+
+         	  "Canteen",
+
+         	  "Carp",
+
+         	  "CarpFilletMeat",
+
+         	  "CatFoodCan",
+
+         	  "CatFoodCan_Opened",
+
+         	  "ChickenBreastMeat",
+
+         	  "Chips",
+
+         	  "CowSteakMeat",
+
+         	  "Crackers",
+
+         	  "DeadChicken_Brown",
+
+         	  "DeadChicken_Spotted",
+
+         	  "DeadChicken_White",
+
+         	  "DeadRabbit",
+
+         	  "DeadRooster",
+
+         	  "DeerSteakMeat",
+
+         	  "DogFoodCan",
+
+         	  "DogFoodCan_Opened",
+
+         	  "GoatSteakMeat",
+
+         	  "GreenBellPepper",
+
+         	  "Honey",
+
+         	  "HumanSteakMeat",
+
+         	  "LactariusMushroom",
+
+         	  "Lard",
+
+         	  "Lunchmeat",
+
+         	  "Lunchmeat_Opened",
+
+         	  "Mackerel",
+
+         	  "MackerelFilletMeat",
+
+         	  "MacrolepiotaMushroom",
+
+         	  "Marmalade",
+
+         	  "Pajka",
+
+         	  "Pajka_Opened",
+
+         	  "Pate",
+
+         	  "Pate_Opened",
+
+         	  "PeachesCan",
+
+         	  "PeachesCan_Opened",
+
+         	  "Pear",
+
+         	  "PigSteakMeat",
+
+         	  "PleurotusMushroom",
+
+         	  "Plum",
+
+         	  "PorkCan",
+
+         	  "PorkCan_Opened",
+
+         	  "Potato",
+
+         	  "PotatoSeed",
+
+         	  "PowderedMilk",
+
+         	  "Pumpkin",
+
+         	  "RabbitLegMeat",
+
+         	  "Rice",
+
+         	  "SaltySticks",
+
+         	  "SambucusBerry",
+
+         	  "Sardines",
+
+         	  "SardinesCan",
+
+         	  "SardinesCan_Opened",
+
+         	  "SheepSteakMeat",
+
+         	  "Shrimp",
+
+         	  "SlicedPumpkin",
+
+         	  "SodaCan_Cola",
+
+         	  "SodaCan_Fronta",
+
+         	  "SodaCan_Kvass",
+
+         	  "SodaCan_Pipsi",
+
+         	  "SodaCan_Spite",
+
+         	  "SpaghettiCan",
+
+         	  "SpaghettiCan_Opened",
+
+         	  "TacticalBaconCan",
+
+         	  "TacticalBaconCan_Opened",
+
+         	  "Tomato",
+
+         	  "TunaCan",
+
+         	  "TunaCan_Opened",
+
+         	  "UnknownFoodCan",
+
+         	  "UnknownFoodCan_Opened",
+
+         	  "WaterBottle",
+
+         	  "WolfSteakMeat",
+
+         	  "Zagorky",
+
+         	  "ZagorkyChocolate",
+
+         	  "ZagorkyPeanuts",
+
+         	  "Zucchini",
+
+         	  "Cannabis",
+
+         	  "Bone",
+
+         	  "Guts",
+
+         	  "SmallGuts"
+
+         	],
+
+         	"LIGHTS": [
+
+         	  "Chemlight_Blue",
+
+         	  "Chemlight_Green",
+
+         	  "Chemlight_Red",
+
+         	  "Chemlight_White",
+
+         	  "Chemlight_Yellow",
+
+         	  "Flashlight",
+
+         	  "Headtorch_Black",
+
+         	  "Headtorch_Grey",
+
+         	  "LongTorch",
+
+         	  "PortableGasLamp",
+
+         	  "Roadflare",
+
+         	  "Spotlight",
+
+         	  "TLRLight",
+
+         	  "Torch",
+
+         	  "UniversalLight",
+
+         	  "XmasLights"
+
+         	],
+
+         	         	"MAGAZINES": [
+
+         	  "Mag_1911_7Rnd",
+
+			  "Mag_PM73_15Rnd",
+
+			  "Mag_PM73_25Rnd",
+
+         	  "Mag_AK101_30Rnd",
+
+         	  "Mag_AK74_30Rnd",
+
+         	  "Mag_AK74_45Rnd",
+
+         	  "Mag_AKM_30Rnd",
+
+         	  "Mag_AKM_Drum75Rnd",
+
+         	  "Mag_AKM_Palm30Rnd",
+
+         	  "Mag_Aug_30Rnd",
+
+         	  "Mag_CMAG_10Rnd",
+
+         	  "Mag_CMAG_20Rnd",
+
+         	  "Mag_CMAG_30Rnd",
+
+         	  "Mag_CMAG_40Rnd",
+
+         	  "Mag_CZ527_5rnd",
+
+         	  "Mag_CZ550_10Rnd",
+
+         	  "Mag_CZ61_20Rnd",
+
+         	  "Mag_CZ75_15Rnd",
+
+         	  "Mag_Deagle_9rnd",
+
+         	  "Mag_FAL_20Rnd",
+
+         	  "Mag_FAMAS_25Rnd",
+
+         	  "Mag_FNX45_15Rnd",
+
+         	  "Mag_Glock_15Rnd",
+
+         	  "Mag_IJ70_8Rnd",
+
+         	  "Mag_M14_10Rnd",
+
+         	  "Mag_M14_20Rnd",
+
+         	  "Mag_MKII_10Rnd",
+
+         	  "Mag_MP5_15Rnd",
+
+         	  "Mag_MP5_30Rnd",
+
+         	  "Mag_P1_8Rnd",
+
+         	  "Mag_PP19_64Rnd",
+
+         	  "Mag_Ruger1022_15Rnd",
+
+         	  "Mag_Ruger1022_30Rnd",
+
+         	  "Mag_SSG82_5rnd",
+
+         	  "Mag_STANAG_30Rnd",
+
+         	  "Mag_STANAG_60Rnd",
+
+         	  "Mag_SV98_10Rnd",
+
+         	  "Mag_SVD_10Rnd",
+
+         	  "Mag_Saiga_5Rnd",
+
+         	  "Mag_Saiga_8Rnd",
+
+         	  "Mag_Saiga_Drum20Rnd",
+
+         	  "Mag_Scout_5Rnd",
+
+         	  "Mag_UMP_25Rnd",
+
+         	  "Mag_VAL_20Rnd",
+
+         	  "Mag_VSS_10Rnd",
+
+         	  "Mag_Vikhr_30Rnd"
+
+         	],
+
+         	"MASKS": [
+
+         	  "Bandana_Pink",
+
+         	  "Balaclava3Holes_White",
+
+         	  "BalaclavaMask_Chain",
+
+         	  "Bandana_Blue",
+
+         	  "Bandana_Yellow",
+
+         	  "BalaclavaMask_Pig",
+
+         	  "BalaclavaMask_BDU",
+
+         	  "Shemag_Brown",
+
+         	  "Shemag_Green",
+
+         	  "Shemag_Red",
+
+         	  "Shemag_White",
+
+         	  "SkiGoggles_BlackYellow",
+
+         	  "SkiGoggles_WhiteClear",
+
+         	  "SkiGoggles_WhiteDark",
+
+         	  "AviatorGlasses",
+
+         	  "Balaclava3Holes_Beige",
+
+         	  "Balaclava3Holes_Black",
+
+         	  "Balaclava3Holes_Blue",
+
+         	  "Balaclava3Holes_Green",
+
+         	  "BalaclavaMask_Beige",
+
+         	  "BalaclavaMask_Black",
+
+         	  "BalaclavaMask_Blackskull",
+
+         	  "BalaclavaMask_Blue",
+
+         	  "BalaclavaMask_Green",
+
+         	  "BalaclavaMask_Pink",
+
+         	  "BalaclavaMask_White",
+
+         	  "Bandana_Blackpattern",
+
+         	  "Bandana_Camopattern",
+
+         	  "Bandana_Greenpattern",
+
+         	  "Bandana_Polkapattern",
+
+         	  "Bandana_Redpattern",
+
+         	  "DesignerGlasses",
+
+         	  "EyeMask_Black",
+
+         	  "EyeMask_Blue",
+
+         	  "EyeMask_Christmas",
+
+         	  "EyeMask_Dead",
+
+         	  "EyeMask_NewYears",
+
+         	  "EyeMask_Red",
+
+         	  "EyeMask_Valentines",
+
+         	  "EyeMask_Yellow",
+
+         	  "HockeyMask",
+
+         	  "MimeMask_Female",
+
+         	  "MimeMask_Male",
+
+         	  "NioshFaceMask",
+
+         	  "PaydayMask_Chains",
+
+         	  "PaydayMask_Dallas",
+
+         	  "PaydayMask_Hoxton",
+
+         	  "PaydayMask_Wolf",
+
+         	  "SportGlasses_Black",
+
+         	  "SportGlasses_Blue",
+
+         	  "SportGlasses_Green",
+
+         	  "SportGlasses_Orange",
+
+         	  "SurgicalMask",
+
+         	  "TacticalGoggles",
+
+         	  "ThickFramesGlasses",
+
+         	  "ThinFramesGlasses",
+
+         	  "WeldingMask",
+
+         	  "CrookedNose"
+
+         	],
+
+         	"MEDICALS": [
+
+         	  "ChelatingTablets",
+
+         	  "AntiChemInjector",
+
+         	  "BandageDressing",
+
+         	  "BloodBagEmpty",
+
+         	  "BloodBagFull",
+
+         	  "BloodBagIV",
+
+         	  "BloodTestKit",
+
+         	  "CharcoalTablets",
+
+         	  "DisinfectantAlcohol",
+
+         	  "DisinfectantSpray",
+
+         	  "Epinephrine",
+
+         	  "FirstAidKit",
+
+         	  "IodineTincture",
+
+         	  "Morphine",
+
+         	  "PainkillerTablets",
+
+         	  "PurificationTablets",
+
+         	  "SalineBag",
+
+         	  "SalineBagIV",
+
+         	  "Splint",
+
+         	  "Splint_Applied",
+
+         	  "StartKitIV",
+
+         	  "TetracyclineAntibiotics",
+
+         	  "Thermometer",
+
+         	  "VitaminBottle"
+
+         	],
+
+         	"MELEE": [
+
+         	  "FireExtinguisher",
+
+         	  "TelescopicBaton",
+
+         	  "PoliceBaton",
+
+         	  "BarbedBaseballBat",
+
+         	  "BaseballBat",
+
+         	  "BoneKnife",
+
+         	  "BrassKnuckles_Dull",
+
+         	  "BrassKnuckles_Shiny",
+
+         	  "Broom",
+
+         	  "Broom_Birch",
+
+         	  "CanOpener",
+
+         	  "Cleaver",
+
+         	  "CombatKnife",
+
+         	  "CrudeMachete",
+
+         	  "FangeKnife",
+
+         	  "HuntingKnife",
+
+         	  "KitchenKnife",
+
+         	  "KukriKnife",
+
+         	  "LongWoodenStick",
+
+         	  "Machete",
+
+         	  "NailedBaseballBat",
+
+         	  "OrientalMachete",
+
+         	  "Pipe",
+
+         	  "Pitchfork",
+
+         	  "Sickle",
+
+         	  "SpearBone",
+
+         	  "SpearStone",
+
+         	  "SteakKnife",
+
+         	  "StoneKnife"
+
+         	],
+
+         	"NADES&TRAPS": [
+
+         	  "Ammo_40mm_Chemgas",
+
+         	  "BearTrap",
+
+         	  "ClaymoreMine",
+
+         	  "EasterEgg",
+
+         	  "FishNetTrap",
+
+         	  "FlashGrenade",
+
+         	  "Grenade_ChemGas",
+
+         	  "ImprovisedExplosive",
+
+         	  "LandMineTrap",
+
+         	  "M18SmokeGrenade_Green",
+
+         	  "M18SmokeGrenade_Purple",
+
+         	  "M18SmokeGrenade_Red",
+
+         	  "M18SmokeGrenade_White",
+
+         	  "M18SmokeGrenade_Yellow",
+
+         	  "M67Grenade",
+
+         	  "Plastic_Explosive",
+
+         	  "RDG2SmokeGrenade_Black",
+
+         	  "RDG2SmokeGrenade_White",
+
+         	  "RGD5Grenade",
+
+         	  "RabbitSnareTrap",
+
+         	  "RemoteDetonator",
+
+         	  "RemoteDetonatorReceiver",
+
+         	  "RemoteDetonatorTrigger",
+
+         	  "SmallFishTrap",
+
+         	  "TripwireTrap"
+
+         	],
+
+         	"NAVIGATION": [
+
+         	  "ChernarusMap",
+
+         	  "ChernarusMap_Open",
+
+         	  "Compass",
+
+         	  "GPSReceiver",
+
+         	  "OrienteeringCompass",
+
+         	  "PersonalRadio",
+
+         	  "BaseRadio"
+
+         	],
+
+         	         	"SEEDS": [
+
+         	  "CannabisSeedsPack",
+
+         	  "CannabisSeeds",
+
+         	  "PepperSeeds",
+
+         	  "PepperSeedsPack",
+
+         	  "PumpkinSeeds",
+
+         	  "PumpkinSeedsPack",
+
+         	  "TomatoSeeds",
+
+         	  "TomatoSeedsPack",
+
+         	  "ZucchiniSeeds",
+
+         	  "ZucchiniSeedsPack"
+
+         	],
+
+         	"SCOPES": [
+
+         	  "ACOGOptic",
+
+         	  "ACOGOptic_6x",
+
+			  "SportingOptic",
+
+         	  "BUISOptic",
+
+         	  "FNP45_MRDSOptic",
+
+         	  "HuntingOptic",
+
+         	  "KashtanOptic",
+
+         	  "KazuarOptic",
+
+         	  "KobraOptic",
+
+         	  "M4_CarryHandleOptic",
+
+         	  "M4_T3NRDSOptic",
+
+         	  "M68Optic",
+
+         	  "PSO11Optic",
+
+         	  "PSO1Optic",
+
+         	  "PUScopeOptic",
+
+         	  "PistolOptic",
+
+         	  "ReflexOptic",
+
+			  "MK4Optic_Black",
+
+			  "MK4Optic_Green",
+
+			  "MK4Optic_Tan",
+
+			  "PSO6Optic",
+
+         	  "StarlightOptic"
+
+         	],
+
+         	"STORAGE": [
+
+         	  "AmmoBox",
+
+         	  "AnniversaryBox",
+
+         	  "BarrelHoles_Blue",
+
+         	  "BarrelHoles_Green",
+
+         	  "BarrelHoles_Red",
+
+         	  "BarrelHoles_Yellow",
+
+         	  "Barrel_Blue",
+
+         	  "Barrel_Green",
+
+         	  "Barrel_Red",
+
+         	  "Barrel_Yellow",
+
+         	  "Bear_Beige",
+
+         	  "Bear_Dark",
+
+         	  "Bear_Pink",
+
+         	  "Bear_White",
+
+         	  "CarTent",
+
+         	  "GiftBox_Large_1",
+
+         	  "GiftBox_Large_2",
+
+         	  "GiftBox_Large_3",
+
+         	  "GiftBox_Large_4",
+
+         	  "GiftBox_Medium_1",
+
+         	  "GiftBox_Medium_2",
+
+         	  "GiftBox_Medium_3",
+
+         	  "GiftBox_Medium_4",
+
+         	  "GiftBox_Small_1",
+
+         	  "GiftBox_Small_2",
+
+         	  "GiftBox_Small_3",
+
+         	  "GiftBox_Small_4",
+
+         	  "LargeTent",
+
+         	  "MediumTent",
+
+         	  "MediumTent_Green",
+
+         	  "MediumTent_Orange",
+
+         	  "PartyTent",
+
+         	  "PartyTent_Blue",
+
+         	  "PartyTent_Brown",
+
+         	  "PartyTent_Lunapark",
+
+         	  "SeaChest",
+
+         	  "ShelterFabric",
+
+         	  "ShelterKit",
+
+         	  "ShelterLeather",
+
+         	  "ShelterSite",
+
+         	  "ShelterStick",
+
+         	  "WoodenCrate",
+
+         	  "ScientificBriefcase",
+
+         	  "SmallProtectorCase",
+
+         	  "Cauldron",
+
+         	  "Pot"
+
+         	],
+
+         	"KEYS": [
+
+         	  "ScientificBriefcaseKeys",
+
+         	  "ShippingContainerKeys_Blue",
+
+         	  "ShippingContainerKeys_Orange",
+
+         	  "ShippingContainerKeys_Red",
+
+         	  "ShippingContainerKeys_Yellow",
+
+         	  "HandcuffKeys"
+
+         	],
+
+         	"SUPPLIES": [
+
+         	  "CigarettePack_Partyzanka",
+
+         	  "CigarettePack_Merkur",
+
+         	  "CigarettePack_Chernamorka",
+
+         	  "Paper",
+
+         	  "PortableGasStove",
+
+         	  "SmallGasCanister",
+
+         	  "LargeGasCanister",
+
+         	  "MediumGasCanister",
+
+         	  "SharpWoodenStick",
+
+         	  "SmallStone",
+
+         	  "Stone",
+
+         	  "ChickenFeather",
+
+         	  "Matchbox",
+
+         	  "WoodenHook",
+
+         	  "Handcuffs",
+
+         	  "HandcuffsLocked",
+
+         	  "AlarmClock_Blue",
+
+         	  "AlarmClock_Green",
+
+         	  "AlarmClock_Red",
+
+         	  "Bait",
+
+         	  "BarbedWire",
+
+         	  "Bark_Birch",
+
+         	  "Bark_Oak",
+
+         	  "Battery9V",
+
+         	  "BoneBait",
+
+         	  "BoneHook",
+
+         	  "BurlapSack",
+
+         	  "BurlapSackCover",
+
+         	  "BurlapStrip",
+
+         	  "CableReel",
+
+         	  "Camonet",
+
+         	  "CanisterGasoline",
+
+         	  "CombinationLock",
+
+         	  "CombinationLock4",
+
+         	  "DuctTape",
+
+         	  "ElectronicRepairKit",
+
+         	  "EpoxyPutty",
+
+         	  "Fabric",
+
+         	  "FishingRod",
+
+         	  "GardenLime",
+
+         	  "GiftWrapPaper",
+
+         	  "GlowPlug",
+
+         	  "Heatpack",
+
+         	  "Hook",
+
+         	  "ImprovisedFishingRod",
+
+         	  "KitchenTimer",
+
+         	  "LeatherSewingKit",
+
+         	  "MetalPlate",
+
+         	  "MetalWire",
+
+         	  "Nail",
+
+         	  "Netting",
+
+         	  "Pen_Black",
+
+         	  "Pen_Blue",
+
+         	  "Pen_Green",
+
+         	  "Pen_Red",
+
+         	  "PetrolLighter",
+
+         	  "Rag",
+
+         	  "Rope",
+
+         	  "SewingKit",
+
+         	  "SparkPlug",
+
+         	  "TannedLeather",
+
+         	  "TireRepairKit",
+
+         	  "WeaponCleaningKit",
+
+         	  "WoodenLog",
+
+         	  "WoodenPlank",
+
+         	  "WoodenStick",
+
+         	  "NailBox"
+
+         	],
+
+         	"SUPPRESSORS": [
+
+         	  "AK_Suppressor",
+
+         	  "ImprovisedSuppressor",
+
+         	  "M4_Suppressor",
+
+         	  "PistolSuppressor"
+
+         	],
+
+         	"TACTICALS": [
+
+         	  "Binoculars",
+
+         	  "Lockpick",
+
+         	  "NVGHeadstrap",
+
+         	  "NVGoggles",
+
+         	  "Rangefinder"
+
+         	],
+
+         	"TOOLS": [
+
+         	  "Iceaxe",
+
+         	  "Jig",
+
+         	  "Anniversary_FireworksLauncher,
+
+         	  "AntiPestsSpray",
+
+         	  "BatteryCharger",
+
+         	  "Blowtorch",
+
+         	  "CookingStand",
+
+         	  "Crowbar",
+
+         	  "FarmingHoe",
+
+         	  "FenceKit",
+
+         	  "FieldShovel",
+
+         	  "FirefighterAxe",
+
+         	  "FirefighterAxe_Black",
+
+         	  "FirefighterAxe_Green",
+
+         	  "Fireplace",
+
+         	  "FireplaceIndoor",
+
+         	  "Firewood",
+
+         	  "FireworksLauncher",
+
+         	  "FryingPan",
+
+         	  "Hacksaw",
+
+         	  "Hammer",
+
+         	  "HandDrillKit",
+
+         	  "HandSaw",
+
+         	  "Hatchet",
+
+         	  "LugWrench",
+
+         	  "Mace",
+
+         	  "MeatTenderizer",
+
+         	  "Megaphone",
+
+         	  "MouthRag",
+
+         	  "NylonKnifeSheath",
+
+         	  "Pickaxe",
+
+         	  "PipeWrench",
+
+         	  "Pliers",
+
+         	  "PowerGenerator",
+
+         	  "Screwdriver",
+
+         	  "Shovel",
+
+         	  "SledgeHammer",
+
+         	  "Sword",
+
+         	  "TerritoryFlagKit",
+
+         	  "Tripod",
+
+         	  "WatchtowerKit",
+
+         	  "Whetstone",
+
+         	  "WoodAxe",
+
+         	  "Wrench",
+
+         	  "HayHook"
+
+         	],
+
+         	"VEHICLEPARTS": [
+
+         	  "CarBattery",
+
+         	  "CarRadiator",
+
+         	  "HeadlightH7_Box",
+
+         	  "HeadlightH7",
+
+         	  "TruckBattery",
+
+         	           	"VESTS": [
+
+         	  "HuntingVest_Winter",
+
+         	  "PlateCarrierHolster_Winter",
+
+         	  "PlateCarrierPouches_Winter",
+
+         	  "PlateCarrierVest_Winter",
+
+         	  "UKAssVest_Winter",
+
+         	  "ChestHolster",
+
+         	  "Chestplate",
+
+         	  "HighCapacityVest_Black",
+
+         	  "HighCapacityVest_Olive",
+
+         	  "HuntingVest",
+
+         	  "LeatherStorageVest_Beige",
+
+         	  "LeatherStorageVest_Black",
+
+         	  "LeatherStorageVest_Brown",
+
+         	  "LeatherStorageVest_Natural",
+
+         	  "PlateCarrierHolster",
+
+         	  "PlateCarrierHolster_Black",
+
+         	  "PlateCarrierHolster_Camo",
+
+         	  "PlateCarrierHolster_Green",
+
+         	  "PlateCarrierPouches",
+
+         	  "PlateCarrierPouches_Black",
+
+         	  "PlateCarrierPouches_Camo",
+
+         	  "PlateCarrierPouches_Green",
+
+         	  "PlateCarrierVest",
+
+         	  "PlateCarrierVest_Black",
+
+         	  "PlateCarrierVest_Camo",
+
+         	  "PlateCarrierVest_Green",
+
+         	  "PoliceVest",
+
+         	  "PressVest_Blue",
+
+         	  "PressVest_LightBlue",
+
+         	  "ReflexVest",
+
+         	  "SmershVest",
+
+         	  "UKAssVest_Black",
+
+         	  "UKAssVest_Camo",
+
+         	  "UKAssVest_Khaki",
+
+         	  "UKAssVest_Olive"
+
+         	],
+
+         	         	"UNCATEGORIZED": [
+
+			  "CigarettePack_Chernamorka",
+
+			  "CigarettePack_Merkur",
+
+			  "CigarettePack_Partyzanka",
+
+			  "Spraycan_Black",
+
+			  "Spraycan_Green",
+
+			  "InjectionVial",
+
+			  "Syringe",
+
+			  "MessTin",
+
+			  "EngineOil",
+
+			  "BrakeFluid",
+
+         	],
+
+			        "BOOKS": [
+
+            "Book20000LieuesSousLesMers",
+
+            "BookADollsHouse",
+
+            "BookAPrincessOfMars",
+
+            "BookATexasMatchmaker",
+
+            "BookATravelerInTime",
+
+            "BookAVoyageToArcturus",
+
+            "BookAfterLondon",
+
+            "BookAliceInWonderland",
+
+            "BookAndersen",
+
+            "BookAndersensFairyTales",
+
+            "BookAnnaKarenina",
+
+            "BookAroundTheWorldIn80Days",
+
+            "BookBettyZane",
+
+            "BookBilaNemoc",
+
+            "BookBlackBeauty",
+
+            "BookBlackJack",
+
+            "BookBuddenbrooks",
+
+            "BookCandide",
+
+            "BookCassidysRustlerRoundUp",
+
+            "BookCinqSemainesEnBallon",
+
+            "BookCrimeAndPunishment",
+
+            "BookDasNibelungenlied",
+
+            "BookDeLaTerreLaLune",
+
+            "BookDeLorigineDesEspces",
+
+            "BookDeadSouls",
+
+            "BookDesertGold",
+
+            "BookDonQuichotte",
+
+            "BookDonQuixote",
+
+            "BookDracula",
+
+            "BookErewhon",
+
+            "BookFatherGoriot",
+
+            "BookFaust",
+
+            "BookFaustErsterTeil",
+
+            "BookFlyingURanch",
+
+            "BookFrankenstein",
+
+            "BookGilgameshEpic",
+
+            "BookGreatExpectations",
+
+            "BookGulliversTravels",
+
+            "BookGunmansReckoning",
+
+            "BookHeartOfDarkness",
+
+            "BookHerland",
+
+            "BookHinduLiterature",
+
+            "BookHunger",
+
+            "BookIvanhoe",
+
+            "BookJapaneseLiterature",
+
+            "BookKidnapped",
+
+            "BookKingLear",
+
+            "BookKingSolomonsMines",
+
+            "BookLaChartreuseDeParme",
+
+            "BookLaComdieHumaine",
+
+            "BookLaDbcle",
+
+            "BookLeRougeEtLeNoir",
+
+            "BookLenfer1Of2",
+
+            "BookLesCorneilles",
+
+            "BookLesTroisMousquetaires",
+
+            "BookLleMystrieuse",
+
+            "BookLonesomeLand",
+
+            "BookLordJim",
+
+            "BookMadameBovary",
+
+            "BookMiddlemarch",
+
+            "BookMobyDick",
+
+            "BookMrchenFrKinder",
+
+            "BookNaturalSelection",
+
+            "BookNjalsSaga",
+
+            "BookNostromo",
+
+            "BookPhilosophiaeNaturalis",
+
+            "BookPrideAndPrejudice",
+
+            "BookRasselas",
+
+            "BookRobinsonCrusoe",
+
+            "BookRobinsonCrusoeAdventures",
+
+            "BookRomeoUndJulia",
+
+            "BookRonickyDoone",
+
+            "BookRussian",
+
+            "BookRussianCheatSheet",
+
+            "BookScaramouche",
+
+            "BookSelectedStories",
+
+            "BookShe",
+
+            "BookSkyrider",
+
+            "BookSonsAndLovers",
+
+            "BookSpinifexAndSand",
+
+            "BookSunsetPass",
+
+            "BookTheAeneid",
+
+            "BookTheArtOfWar",
+
+            "BookTheBarrier",
+
+            "BookTheBrothersKaramazov",
+
+            "BookTheCallOfCthulhu",
+
+            "BookTheCallOfTheWild",
+
+            "TheCanterburyTales",
+
+            "BookTheCaveOfGold",
+
+            "BookTheComingRace",
+
+            "BookTheCosmicComputer",
+
+            "BookTheCountryOfTheBlind",
+
+            "BookTheDayOfTheBeast",
+
+            "BookTheDecameron",
+
+            "BookTheDesertOfWheat",
+
+            "BookTheGiacomoLeopardi",
+
+            "BookTheHeritageOfTheSioux",
+
+            "BookTheHiddenChildren",
+
+            "BookTheHoundOfTheBaskervilles",
+
+            "BookTheHouseOfTheSevenGables",
+
+            "BookTheIslandOfDoctorMoreau",
+
+            "BookTheJungleBook",
+
+            "BookTheJustifiedSinner",
+
+            "BookTheLastMan",
+
+            "BookTheLastOfThePlainsmen",
+
+            "BookTheLastTrail",
+
+            "BookTheMahabharataOfKrishna",
+
+            "BookTheManWhoWasThursday",
+
+            "BookTheMetamorphosesOfOvid",
+
+            "BookTheMetamorphosis",
+
+            "BookTheMonkARomance",
+
+            "BookTheOutlet",
+
+            "BookThePictureOfDorianGray",
+
+            "BookThePitAndThePendulum",
+
+            "BookThePossessed",
+
+            "BookThePrisonerOfZenda",
+
+            "BookTheQuirt",
+
+            "BookTheRaven",
+
+            "BookTheRedBadgeOfCourage",
+
+            "BookTheRightsOfWoman",
+
+            "BookTheScarletPimpernel",
+
+            "BookTheShunnedHouse",
+
+            "BookTheThreeMusketeers",
+
+            "BookTheThunderBird",
+
+            "BookTheTimeMachine",
+
+            "BookTheTrial",
+
+            "BookTheTurnOfTheScrew",
+
+            "BookTheVariableMan",
+
+            "BookTheWarOfTheWorlds",
+
+            "BookThreeMenInABoat",
+
+            "BookToTheInteriorOfTheEarth",
+
+            "BookTonyAndTheBeetles",
+
+            "BookTrailin",
+
+            "BookTranslationsOfShakuntala",
+
+            "BookTreasureIsland",
+
+            "BookUlysses",
+
+            "BookUncleSilas",
+
+            "BookVerwandlung",
+
+            "BookVoyageAuCentreDeLaTerre",
+
+            "BookWarAndPeace",
+
+            "BookWealthOfNations",
+
+            "BookWielandOrTheTransformation",
+
+            "BookWutheringHeights",
+
+            "BookYouth",
+
+            "BookBible"
+
+        ],
