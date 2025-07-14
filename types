@@ -1,5 +1,4 @@
 {
-
         "AMMO": [
 
          	  "AmmoBox_00buck_10rnd",
@@ -3324,6 +3323,5 @@
 
             "BookBible"
 
-        ],
-
+        ]
         };
