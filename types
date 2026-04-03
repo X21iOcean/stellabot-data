@@ -1347,6 +1347,7 @@
   ],
   "KEYS": [
     "ScientificBriefcaseKeys",
+    "PunchedCard",
     "ShippingContainerKeys_Blue",
     "ShippingContainerKeys_Orange",
     "ShippingContainerKeys_Red",
