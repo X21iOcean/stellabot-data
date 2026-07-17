@@ -98,6 +98,10 @@
     "Armband_Zenit"
   ],
   "ATTACHMENTS": [
+    "SCAR_PrecisionBttstck",
+    "SCAR_PrecisionBttstck_Black",
+    "SCAR_StockBttstck",
+    "SCAR_StockBttstck_Black",
     "SKS_Bayonet",
     "M9A1_Bayonet",
     "AK_Bayonet",
@@ -140,6 +144,7 @@
     "Saiga_Bttstck"
   ],
   "BAGS": [
+    "TortillaBag_Desert",
     "AssaultBag_Winter",
     "CoyoteBag_Winter",
     "TortillaBag_Winter",
@@ -299,6 +304,9 @@
     "WorkingGloves_Yellow"
   ],
   "HATS": [
+    "MilitaryCap_BDU",
+    "MilitaryCap_Desert",
+    "MilitaryCap_Woodland",
     "BoonieHat_Winter",
     "BudenovkaHat_Gray",
     "Headdress_Wolf",
@@ -401,6 +409,8 @@
     "SnowstormUshanka_White"
   ],
   "HELMETS": [
+    "T56TankerHelmet_Olive",
+    "T56TankerHelmet_Tan",
     "NorseHelmet",
     "BallisticHelmet_Navy",
     "BallisticHelmet_Winter",
@@ -804,6 +814,8 @@
     "WorkingBoots_Yellow"
   ],
   "FIREARMS": [
+    "SCARH",
+    "SCARH_Black",
     "AK101",
     "AK101_Black",
     "AK101_Green",
@@ -1062,6 +1074,8 @@
     "XmasLights"
   ],
   "MAGAZINES": [
+    "Mag_SCARH_20Rnd",
+    "Mag_SCARH_20Rnd_Black",
     "Mag_1911_7Rnd",
     "Mag_PM73_15Rnd",
     "Mag_PM73_25Rnd",
@@ -1297,6 +1311,7 @@
     "ZucchiniSeedsPack"
   ],
   "SCOPES": [
+    "HoloOptic",
     "ACOGOptic",
     "ACOGOptic_6x",
     "SportingOptic",
@@ -1369,6 +1384,9 @@
     "Pot"
   ],
   "KEYS": [
+    "MorsecodeLeaflet_blood",
+    "MorsecodeLeaflet_coffee",
+    "MorsecodeLeaflet_fire",
     "ScientificBriefcaseKeys",
     "PunchedCard",
     "ShippingContainerKeys_Blue",
@@ -1459,6 +1477,7 @@
     "Rangefinder"
   ],
   "TOOLS": [
+    "BrassKnuckles_MenAtArms",
     "Iceaxe",
     "Jig",
     "Anniversary_FireworksLauncher",
@@ -1513,6 +1532,9 @@
     "TruckBattery"
   ],
   "VESTS": [
+    "PlateCarrierHolster_Desert",
+    "PlateCarrierPouches_Desert",
+    "PlateCarrierVest_Desert",
     "HuntingVest_Winter",
     "PlateCarrierHolster_Winter",
     "PlateCarrierPouches_Winter",
